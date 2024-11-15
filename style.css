@@ -1,0 +1,38 @@
+body {
+    font-family: Georgia;
+    background-color: #d2fba9;
+    padding: 20px;
+    }
+     
+h1{
+    font-size: 20px;
+    color: #24311d;
+    padding: 10px 10px;
+}
+h2{
+    font-size: 16px;
+    color: #265a2a;
+    padding: 10px 10px;
+}
+a{padding: 10px 10px; color: #265a2a;}
+.content {
+    display: flex;
+}
+
+.content-left {
+    width: 60%;
+    background-color: #86c068;
+    margin: 1%;
+    padding: 20px;
+    border-radius: 5%;
+}
+
+.content-right {
+    width: 500px;
+    background-color: #86c068; 
+    margin: 3%;
+    padding: 20px;
+    border-radius: 5%;
+    
+}
+img{border-radius: 5%; width:500px;}
